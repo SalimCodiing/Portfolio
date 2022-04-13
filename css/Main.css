@@ -1,0 +1,32 @@
+main {
+    font-family: 'EB Garamond', serif;
+    height: auto;
+}
+
+main section {
+    margin: 50px 0;
+}
+
+main section article header h1 {
+    font-size: 2em;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+main section article p {
+    text-align: justify;
+}
+
+main section:nth-child(2) button{
+    padding: 10px;
+    background-color: #FF7E00;
+    display: block;
+    margin: 20px auto;
+    border: none;
+    outline: none;
+}
+
+main section:nth-child(2) button a{
+    color: #fff;
+    text-decoration: none;
+}

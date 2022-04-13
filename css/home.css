@@ -1,0 +1,72 @@
+*{
+    font-family: 'Barlow', sans-serif;
+}
+
+
+.overlay {
+    
+    
+    flex-direction: row;
+    flex-wrap: wrap;
+    background-color: black;
+    
+    
+}
+.item1 p{
+    color: white;
+    width: 100%;
+    height: 200px;
+    margin-bottom: 20px;
+    
+}
+
+.overlay-text1{
+    margin-left: 150px;
+    font-size: 140px;
+    font-style: italic;
+}
+
+.overlay-text2{
+    margin-left: 200px;
+    font-size: 50px;
+    letter-spacing: 0.15em;
+}
+.hidden {
+    font-family: 'Barlow', sans-serif;
+    opacity:0;
+  }
+  .console-container {
+   
+    font-family: 'Barlow', sans-serif;
+    font-size:50px;
+    height:100px;
+    width:400px;
+    color:white;
+    margin-left: 200px;
+    margin-top: -100px;
+  }
+  .console-underscore {
+    font-family: 'Barlow', sans-serif;
+    display:inline-block;
+    position:relative;
+    top:-0.14em;
+    left:10px;
+  }
+  .overlay-text3{
+    font-family: 'Barlow', sans-serif;
+    margin-left: 200px;
+    margin-bottom: -20px;
+      
+  }
+  form a{
+    font-family: 'Barlow', sans-serif;
+    margin-left: 200px;
+    color:black;
+    text-decoration: none;
+    font-size: 1.3em;
+    background-color: white;
+    border-radius: 80px;
+    width: 180px;
+    padding: 10px;
+  }
+
